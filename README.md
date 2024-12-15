@@ -1,0 +1,2 @@
+# DotTerminal
+Lightweight Terminal Emulator
