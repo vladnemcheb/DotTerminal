@@ -48,7 +48,7 @@ int main(int argc, char *argv[]) {
   // Создаем окно и приложение
   QApplication app(argc, argv);
   QMainWindow *mainWindow = new QMainWindow();
-  mainWindow->setProperty("windowOpacity", 0.85);
+  mainWindow->setProperty("windowOpacity", 0.90);
   mainWindow->setGeometry(20,20,700,500);
 
   // Создаем объект консоли
