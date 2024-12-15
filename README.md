@@ -8,5 +8,11 @@ Lightweight Terminal Emulator
 4. make
    
 # Building
-1. qmake -makefile
-2. make
+1. Generate a Makefile
+   ```bash
+   qmake -makefile
+   ```
+2. Building
+   ```bash
+   make
+   ```
